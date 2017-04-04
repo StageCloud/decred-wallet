@@ -1,0 +1,11 @@
+
+.vagrant/
+Would skip repository backend/go/src/github.com/decred/dcrd
+Would skip repository backend/go/src/github.com/decred/dcrwallet
+backend/go/bin
+backend/go/pkg
+backend/.dcrctl
+backend/.dcrd
+backend/.dcrwallet
+docker/dcrd/.dcrd/data/
+docker/dcrd/go/
